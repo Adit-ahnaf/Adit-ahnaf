@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**Adit-ahnaf/Adit-ahnaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate Js developer. Keen to learn all aspects of web development sectors. 
 
-Here are some ideas to get you started:
+## My Industry level Experience :
+Working as a full time Front end developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Experienced with Shopify and Shopify app development.
+
+Experienced at Vue, Nuxt and Java Script.
+
+Flexible with React, Nextjs.
+
+Flexible with Dynamic UI Design.
+
+Version Control: git
+
+Familiar with Python, Django, Express, Node.
+
+Familiar with Flutter.

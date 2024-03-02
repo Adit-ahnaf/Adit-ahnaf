@@ -9,7 +9,7 @@ Experienced with Shopify and Shopify app development.
 
 Experienced at Vue, Nuxt and Java Script.
 
-Flexible with React, Nextjs.
+Experienced with React, Nextjs.
 
 Flexible with Dynamic UI Design.
 
